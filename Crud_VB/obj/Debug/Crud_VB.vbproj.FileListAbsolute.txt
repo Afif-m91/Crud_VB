@@ -1,0 +1,15 @@
+C:\Users\Hamdan\source\repos\Crud_VB\Crud_VB\bin\Debug\Crud_VB.exe.config
+C:\Users\Hamdan\source\repos\Crud_VB\Crud_VB\bin\Debug\Crud_VB.exe
+C:\Users\Hamdan\source\repos\Crud_VB\Crud_VB\bin\Debug\Crud_VB.pdb
+C:\Users\Hamdan\source\repos\Crud_VB\Crud_VB\bin\Debug\Crud_VB.xml
+C:\Users\Hamdan\source\repos\Crud_VB\Crud_VB\obj\Debug\Crud_VB.Resources.resources
+C:\Users\Hamdan\source\repos\Crud_VB\Crud_VB\obj\Debug\Crud_VB.vbproj.GenerateResource.cache
+C:\Users\Hamdan\source\repos\Crud_VB\Crud_VB\obj\Debug\Crud_VB.vbproj.CoreCompileInputs.cache
+C:\Users\Hamdan\source\repos\Crud_VB\Crud_VB\obj\Debug\Crud_VB.exe
+C:\Users\Hamdan\source\repos\Crud_VB\Crud_VB\obj\Debug\Crud_VB.xml
+C:\Users\Hamdan\source\repos\Crud_VB\Crud_VB\obj\Debug\Crud_VB.pdb
+C:\Users\Hamdan\source\repos\Crud_VB\Crud_VB\obj\Debug\Crud_VB.Form1.resources
+C:\Users\Hamdan\source\repos\Crud_VB\Crud_VB\obj\Debug\Crud_VB.Ubah.resources
+C:\Users\Hamdan\source\repos\Crud_VB\Crud_VB\obj\Debug\Crud_VB.FrmMenu.resources
+C:\Users\Hamdan\source\repos\Crud_VB\Crud_VB\obj\Debug\Crud_VB.Form2.resources
+C:\Users\Hamdan\source\repos\Crud_VB\Crud_VB\obj\Debug\Crud_VB.vbprojAssemblyReference.cache
